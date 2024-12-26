@@ -1,0 +1,22 @@
+/*tag name*/
+body {
+    background: #dda0dd;
+}
+
+/* Class*/
+.card {
+    padding: 10px;
+    background: 9966FF;
+    margin-bottom: 10px;
+}
+.html {
+background: #d8bfd8;
+}
+.css {
+    background: #d8bfd8;
+}
+
+/*id*/
+#header {
+    background: #d8bfd8;
+}
